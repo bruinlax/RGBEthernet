@@ -1,4 +1,4 @@
-myArduinoStuff
+RGBEthernet
 ==============
 
-myArduino
+RGB Ethernet Project
